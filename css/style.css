@@ -17,8 +17,12 @@ body {
 
 main {
     flex-grow: 1;  
+
     
       
+}
+h1{
+    color: #d84033;
 }
 
 .section {
